@@ -5,7 +5,7 @@ Windows builds from gyan.dev'e girildi.
 ffmpeg-git-full.7z indirildi.
 C'ye çıkar. dosya adını ffmpeg olarak değiştir.doyada bine gir ve pathi kopyala
 Bilgisayar->Gelişmiş sistem ayarları->ortam değişkenleri 
-sistem değişkenlerine path'i yapıştır.
+sistem değişkenlerine path'i yapıştır.kaydedip kapat.
 
 
 <<<<<<Mobese görüntülerini çekmek için kurulum>>>>>
