@@ -1,0 +1,13 @@
+Anaconda prompt
+cd C:\Users\gayen\OneDrive\Masaüstü\labelimg
+python labelImg.py
+
+pychardan da kodu girip açabiliriz
+
+yada anaconda propt
+conda activate yolo
+cd C:\Users\gayen\OneDrive\Masaüstü\image-processing-using-mobese-main\image-processing-using-mobese-main
+python ffmpgProcess.py
+
+Q da kamera değişiyor
+esc kapatıyor
