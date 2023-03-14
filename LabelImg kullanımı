@@ -1,10 +1,10 @@
 <<<<<LabelImg kullanımı>>>>>>>
 her kullanımda conda da
-cd C:\Users\....\LabelImg 
+cd C:\Users\....\LabelImg "labelImg dosyasının pathini yapıştır"
 python labelImg.py 
 satırları çalıştırılır.
 Open Dir 'den klasör seçilir.
 çıktıların ayrı bir dosyada olması için Change Dir 'den dosya seçildi.
 createrectbox ile etiketlemeye başlanılabilir.
 etiketler: car,service,bus ve motorcycle olarak seçildi.
-Pascal VOC ve YOLO olarak kaydedildi.
+YOLO olarak kaydedildi.
