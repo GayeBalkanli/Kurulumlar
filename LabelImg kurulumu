@@ -1,11 +1,11 @@
 <<<<LabelImg nasıl indirildi>>>>>>
 https://github.com/heartexlabs/labelImg sitesinden zipler indirildi.
-İndirilen zipler masaüstüne aktarıldı.
+İndirilen zipler masaüstüne aktarıldı.zipten sıyırdık.
 Dosyanın ismi LabelImg diye değiştirildi kolaylık olsun diye.
-conda yüklendi.
-cd C:\User\... dosyanın adresini kopyalandı. Çalıştırıldı
+conda yüklendi.Anaconda prompt terminalini açtık.
+cd C:\User\... LabelImg dosyasının pathi yapıştırıldı. Çalıştırıldı
 conda install pyqt=5
 pyrcc5 -o libs/resources.py resources.qrc
 python labelImg.py
 art arda çalıştırıldı
-LabelImg çalıştı
+LabelImg açılır
