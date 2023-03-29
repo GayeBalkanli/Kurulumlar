@@ -1,5 +1,5 @@
 <<<<LabelImg nasıl indirildi>>>>>>
-https://github.com/heartexlabs/labelImg sitesinden zipler indirildi.
+https://github.com/heartexlabs/labelImg sitesinden zipler "code" kısmından "down zip"'ten indirildi.
 İndirilen zipler masaüstüne aktarıldı.zipten sıyırdık.
 Dosyanın ismi LabelImg diye değiştirildi kolaylık olsun diye.
 conda yüklendi.Anaconda prompt terminalini açtık.
@@ -9,3 +9,7 @@ pyrcc5 -o libs/resources.py resources.qrc
 python labelImg.py
 art arda çalıştırıldı
 LabelImg açılır
+
+<<<attributeerror sorunu>>>>
+labelImage>libs içerisindeki labelDialog.py dosyası açılır.
+37. satırda "layout.addWidget(bb, alignment=Qt.AlignmentFlag.AlignLeft" bu "layout.addWidget(bb, alignment=Qt.AlignLeft)" şekilde değiştirilir.
